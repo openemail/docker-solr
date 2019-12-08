@@ -1,5 +1,4 @@
 FROM solr:7.7-slim
-LABEL maintainer "Chinthaka Deshapriya <chinthaka@cybergate.lk>"
 
 USER root
 
